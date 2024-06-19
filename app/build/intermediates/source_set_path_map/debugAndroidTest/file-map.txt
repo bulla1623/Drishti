@@ -1,0 +1,5 @@
+com.example.software2.ocrhy.test.app-androidTest-0 D:\Drishti\app\build\generated\res\resValues\androidTest\debug
+com.example.software2.ocrhy.test.app-androidTest-1 D:\Drishti\app\build\generated\res\rs\androidTest\debug
+com.example.software2.ocrhy.test.app-mergeDebugAndroidTestResources-2 D:\Drishti\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.software2.ocrhy.test.app-mergeDebugAndroidTestResources-3 D:\Drishti\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.software2.ocrhy.test.app-merged_res-4 D:\Drishti\app\build\intermediates\merged_res\debugAndroidTest

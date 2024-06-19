@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_info.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_few_cloudn.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\few_cloudn.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\raw_day_background.json.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\raw\\day_background.json"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_stormn.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\stormn.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_pressure.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\raw_hamster_toggle.json.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\raw\\hamster_toggle.json"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_sunset.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\sunset.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_rain.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_wind.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_img_1.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_main6.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_main6.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_sunrise.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\sunrise.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_mist.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\mist.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_bg_gradient.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_background2.jpg.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.software2.ocrhy.app-debug-24:/layout_activity_main3.xml.flat",
+        "source": "com.example.software2.ocrhy.app-main-26:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_calc.jpg.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\calc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_snow.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\snow.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_mistn.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\mistn.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_what.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\what.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_picture.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_home.jpeg.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\home.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\raw_wwwww.mp3.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\raw\\wwwww.mp3"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_main5.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_clouds.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_img_2.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_home.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_main4.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_what1.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\what1.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\raw_night_background.json.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\raw\\night_background.json"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_city_finder.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_city_finder.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_menu.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_few_cloudsd.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\few_cloudsd.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_calc.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\calc.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_roundstyle.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\roundstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_img_3.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_storm.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_clear_skyd.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\clear_skyd.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_main8.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_main8.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_main_menu.jpeg.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\main_menu.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_img_1.jpg.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\img_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_clear_skyn.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\clear_skyn.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_gradient.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_humidity.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable-v24_rushikesh.png.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable-v24\\rushikesh.png"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\raw_morning_background.json.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\raw\\morning_background.json"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_weather_background.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\weather_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\drawable_home.jpg.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\drawable\\home.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_surface.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\surface.xml"
+    },
+    {
+        "merged": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-debug-24:\\layout_activity_main7.xml.flat",
+        "source": "C:\\Users\\bulla\\.gradle\\daemon\\8.7\\com.example.software2.ocrhy.app-main-26:\\layout\\activity_main7.xml"
+    }
+]
